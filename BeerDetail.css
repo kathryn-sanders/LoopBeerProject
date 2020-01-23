@@ -1,0 +1,40 @@
+.beer-detail-tile{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-shadow: -2px -2px 7.5px 0px rgba(68,68,68,0.4);
+}
+
+.beer-detail-tile img{
+    max-width: 300px;
+    max-height: 300px;
+    align-self: center;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+
+h1{
+    align-self: center;
+    font-size: 26pt;
+}
+
+.quote-block{
+    align-self: center;
+}
+
+q{
+    font-style: italic;
+    font-size: 18pt;
+    text-align: center;
+}
+
+.beer-detail-tile div{
+    margin: 15px;
+}
+
+.beer-detail-tile a{
+    align-self: center;
+}
